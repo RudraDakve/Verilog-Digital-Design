@@ -5,7 +5,7 @@ Building, simulating, and verifying digital logic circuit blocks in Verilog HDL 
 ## Daily Progress Log
 
 - [x] **Day 1:** [2-Input AND Gate](./AND_Gate)
-- [x] **Day 2:** 2-Input OR Gate
+- [x] **Day 2:** [2-Input OR Gate](./OR-Gate)
 - [ ] **Day 3:** NOT Gate
 - [ ] **Day 4:** 2-Input NAND Gate
 - [ ] **Day 5:** 2-Input NOR Gate
