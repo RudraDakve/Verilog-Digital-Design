@@ -6,7 +6,7 @@ Building, simulating, and verifying digital logic circuit blocks in Verilog HDL 
 
 - [x] **Day 1:** [2-Input AND Gate](./AND_Gate)
 - [x] **Day 2:** [2-Input OR Gate](./OR-Gate)
-- [ ] **Day 3:** NOT Gate
+- [x] **Day 3:** [NOT Gate](./NOT_Gate)
 - [ ] **Day 4:** 2-Input NAND Gate
 - [ ] **Day 5:** 2-Input NOR Gate
 - [ ] **Day 6:** 2-Input XOR Gate
