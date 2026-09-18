@@ -10,7 +10,7 @@ Building, simulating, and verifying digital logic circuit blocks in Verilog HDL 
 - [x] **Day 4:** [2-Input NAND Gate](./NAND_Gate)
 - [x] **Day 5:** [2-Input NOR Gate](./NOR_Gate)
 - [x] **Day 6:** [2-Input XOR Gate](./XOR_Gate)
-- [ ] **Day 7:** 2-Input XNOR Gate
+- [x] **Day 7:** [2-Input XNOR Gate](./XNOR_Gate)
 
 ## Tools Used
 - **Language:** Verilog HDL
