@@ -11,6 +11,7 @@ Building, simulating, and verifying digital logic circuit blocks in Verilog HDL 
 - [x] **Day 5:** [2-Input NOR Gate](./01_Logic_Gates/NOR_Gate)
 - [x] **Day 6:** [2-Input XOR Gate](./01_Logic_Gates/XOR_Gate)
 - [x] **Day 7:** [2-Input XNOR Gate](./01_Logic_Gates/XNOR_Gate)
+- [x] **Day 8:** [Tri-State Buffer](./01_Logic_Gates/Tristate_Buffer)
 
 ## Tools Used
 - **Language:** Verilog HDL
