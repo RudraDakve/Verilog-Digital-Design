@@ -13,3 +13,6 @@ The Half Adder is a basic combinational circuit that adds two single-bit binary 
 | 0 | 1 |  1  |   0   |
 | 1 | 0 |  1  |   0   |
 | 1 | 1 |  0  |   1   |
+
+## Waveform Simulation
+![Waveform](waveform.png)
