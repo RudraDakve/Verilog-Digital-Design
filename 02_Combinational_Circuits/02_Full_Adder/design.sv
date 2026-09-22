@@ -1,5 +1,5 @@
 // Full Adder Module.
-module full_adder (input wire a, input wire b, input wire cin, output wire sum, output wire carry);
+module full_adder (input wire a, input wire b, input wire cin, output wire sum, output wire cout);
   assign sum = a ^ b ^ cin;
-    assign carry = (a & b) | (b & cin) | (cin & a);
+    assign cout = (a & b) | (b & cin) | (cin & a);
 endmodule

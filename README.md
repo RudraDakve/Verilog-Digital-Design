@@ -16,7 +16,7 @@ Building, simulating, and verifying digital logic circuit blocks in Verilog HDL 
 
 ### Combinational Circuits
 - [x] **Day 9** [Half Adder](./02_Combiantional_Circuits/01_Half_Adder)
-- [ ] **Day 10** Full Adder
+- [x] **Day 10** Full Adder
 
 ## Tools Used
 - **Language:** Verilog HDL

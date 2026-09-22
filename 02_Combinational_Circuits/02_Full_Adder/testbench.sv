@@ -4,17 +4,17 @@ module tb_full_adder;
   reg b;
   reg cin;
   wire sum;
-  wire carry;
+  wire cout;
   
   // Instantiate Unit Under Test (UUT).
-  full_adder uut (.a(a), .b(b), .cin(cin), .sum(sum), .carry(carry));
+  full_adder uut (.a(a), .b(b), .cin(cin), .sum(sum), .cout(cout));
   initial begin
     $dumpfile("dumpfile.vcd");
     $dumpvars(0, tb_full_adder);
     
     $display("Time | A B Cin | Sum Carry");
     $display("--------------------------");
-    $monitor("%4t | %b %b %b | %b   %b", $time, a, b, cin, sum, carry);
+    $monitor("%4t | %b %b %b | %b   %b", $time, a, b, cin, sum, cout);
     
     // Test all possible combination of inputs.
     a = 0; b = 0; cin = 0; #10;
