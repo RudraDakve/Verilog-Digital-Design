@@ -4,8 +4,7 @@ The Full Adder is a combinational circuit that adds three single-bit binary inpu
 
 ## Logic Equations
 - $\text{Sum} = A \oplus B \oplus C_{in}$
-- $\text{C}_{out} = (A \cdot B) + (B \cdot C_{in}) + (C_{in} \cdot A)$
-
+- Cout = (A . B) + (A . Cin) + (B . Cin)
 ## Truth Table
 | A | B | Cin | Sum | Cout |
 |---|---|-----|-----|------|
