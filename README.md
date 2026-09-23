@@ -17,7 +17,7 @@ Building, simulating, and verifying digital logic circuit blocks in Verilog HDL 
 ### Combinational Circuits
 - [x] **Day 9** [Half Adder](./02_Combiantional_Circuits/01_Half_Adder)
 - [x] **Day 10** [Full Adder](./02_Combinational_Circuits/02_Full_Adder)
-- [ ] **Day 11** [4-Bit Ripple Carry Adder](./02_Combinational_Circuits/03_Ripple_Carry_Adder)
+- [x] **Day 11** [4-Bit Ripple Carry Adder](./02_Combinational_Circuits/03_Ripple_Carry_Adder)
 
 ## Tools Used
 - **Language:** Verilog HDL
