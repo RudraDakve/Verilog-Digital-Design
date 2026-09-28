@@ -22,6 +22,7 @@ Building, simulating, and verifying digital logic circuit blocks in Verilog HDL 
 - [x] **Day 13** [Full Subtractor](./02_Combinational_Circuits/05_Full_Subtractor)
 - [x] **Day 14** [4-Bit Ripple Borrow Subtractor](./02_Combinational_Circuits/06_Ripple_Borrow_Subtractor)
 - [x] **Day 15** [4-Bit Adder Subtractor](./02_Combinational_Circuits/07_Adder_Subtractor)
+- [x] **Day 16** [2-Bit x 2-Bit Multiplier](./02_Combinational_Circuits/08_2-Bit_Multiplier)
 
 ## Tools Used
 - **Language:** Verilog HDL
