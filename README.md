@@ -24,6 +24,7 @@ Building, simulating, and verifying digital logic circuit blocks in Verilog HDL 
 - [x] **Day 15** [4-Bit Adder Subtractor](./02_Combinational_Circuits/07_Adder_Subtractor)
 - [x] **Day 16** [2-Bit x 2-Bit Multiplier](./02_Combinational_Circuits/08_2-Bit_Multiplier)
 - [x] **Day 17** [Carry Lookahead Adder (CLA)](./02_Combinational_Circuits/09_Carry_Lookahead_Adder)
+- [x] **Day 18** [4-Bit Magnitude Comparator](./02_Combinational_Circuits/10_Magnitude_Comparator)
 
 ## Tools Used
 - **Language:** Verilog HDL
