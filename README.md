@@ -5,14 +5,14 @@ Building, simulating, and verifying digital logic circuit blocks in Verilog HDL 
 ## Daily Progress Log
 
 ### Basic Logic Gates
-- [x] **Day 1:** [2-Input AND Gate](./01_Logic_Gates/AND_Gate)
-- [x] **Day 2:** [2-Input OR Gate](./01_Logic_Gates/OR-Gate)
-- [x] **Day 3:** [NOT Gate](./01_Logic_Gates/NOT_Gate)
-- [x] **Day 4:** [2-Input NAND Gate](./01_Logic_Gates/NAND_Gate)
-- [x] **Day 5:** [2-Input NOR Gate](./01_Logic_Gates/NOR_Gate)
-- [x] **Day 6:** [2-Input XOR Gate](./01_Logic_Gates/XOR_Gate)
-- [x] **Day 7:** [2-Input XNOR Gate](./01_Logic_Gates/XNOR_Gate)
-- [x] **Day 8:** [Tri-State Buffer](./01_Logic_Gates/Tristate_Buffer)
+- [x] **Day 1:** [2-Input AND Gate](./01_Logic_Gates/01_AND_Gate)
+- [x] **Day 2:** [2-Input OR Gate](./01_Logic_Gates/02_OR_Gate)
+- [x] **Day 3:** [NOT Gate](./01_Logic_Gates/03_NOT_Gate)
+- [x] **Day 4:** [2-Input NAND Gate](./01_Logic_Gates/04_NAND_Gate)
+- [x] **Day 5:** [2-Input NOR Gate](./01_Logic_Gates/05_NOR_Gate)
+- [x] **Day 6:** [2-Input XOR Gate](./01_Logic_Gates/06_XOR_Gate)
+- [x] **Day 7:** [2-Input XNOR Gate](./01_Logic_Gates/07_XNOR_Gate)
+- [x] **Day 8:** [Tri-State Buffer](./01_Logic_Gates/08_Tristate_Buffer)
 
 ### Combinational Circuits
 - [x] **Day 9** [Half Adder](./02_Combinational_Circuits/01_Half_Adder)
@@ -25,6 +25,8 @@ Building, simulating, and verifying digital logic circuit blocks in Verilog HDL 
 - [x] **Day 16** [2-Bit x 2-Bit Multiplier](./02_Combinational_Circuits/08_2-Bit_Multiplier)
 - [x] **Day 17** [Carry Lookahead Adder (CLA)](./02_Combinational_Circuits/09_Carry_Lookahead_Adder)
 - [x] **Day 18** [4-Bit Magnitude Comparator](./02_Combinational_Circuits/10_Magnitude_Comparator)
+- [x] **Day 19** [2 : 1 MUX](./02_Combinational_Circuits/11_MUX_2_to_1)
+- [x] **Day 20** [4 : 1 MUX](./02_Combinational_Circuits/12_MUX_4_to_1)
 
 ## Tools Used
 - **Language:** Verilog HDL
