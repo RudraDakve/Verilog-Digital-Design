@@ -27,6 +27,7 @@ Building, simulating, and verifying digital logic circuit blocks in Verilog HDL 
 - [x] **Day 18** [4-Bit Magnitude Comparator](./02_Combinational_Circuits/10_Magnitude_Comparator)
 - [x] **Day 19** [2 : 1 MUX](./02_Combinational_Circuits/11_MUX_2_to_1)
 - [x] **Day 20** [4 : 1 MUX](./02_Combinational_Circuits/12_MUX_4_to_1)
+- [x] **Day 21** [8 : 1 MUX](./02_Combinational_Circuits/13_MUX_8_to_1)
 
 ## Tools Used
 - **Language:** Verilog HDL
