@@ -30,6 +30,7 @@ Building, simulating, and verifying digital logic circuit blocks in Verilog HDL 
 - [x] **Day 21** [8 : 1 MUX](./02_Combinational_Circuits/13_MUX_8_to_1)
 - [x] **Day 22** [1 : 2 DEMUX](./02_Combinational_Circuits/14_DEMUX_1_to_2)
 - [x] **Day 23** [1 : 4 DEMUX](./02_Combinational_Circuits/15_DEMUX_1_to_4)
+- [x] **Day 24** [1 : 8 DEMUX](./02_Combinational_Circuits/16_DEMUX_1_to_8)
 
 ## Tools Used
 - **Language:** Verilog HDL
