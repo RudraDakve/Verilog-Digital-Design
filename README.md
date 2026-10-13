@@ -32,6 +32,7 @@ Building, simulating, and verifying digital logic circuit blocks in Verilog HDL 
 - [x] **Day 23** [1 : 4 DEMUX](./02_Combinational_Circuits/15_DEMUX_1_to_4)
 - [x] **Day 24** [1 : 8 DEMUX](./02_Combinational_Circuits/16_DEMUX_1_to_8)
 - [x] **Day 25** [Decoder 2-to-4](./02_Combinational_Circuits/17_Decoder_2_to_4)
+- [x] **Day 26** [Decoder 3-to-8](./02_Combinational_Circuits/18_Decoder_3_to_8)
 
 ## Tools Used
 - **Language:** Verilog HDL
