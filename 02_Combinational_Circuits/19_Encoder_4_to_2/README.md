@@ -1,22 +1,27 @@
-# 1-to-4 Demultiplexer (DEMUX)
+# 4-to-2 Priority Encoder
 
-## 📝 Description
-A **1-to-4 Demultiplexer (DEMUX)** is a combinational logic circuit that routes a single input data line to one of four possible output lines. The active output path is determined by a 2-bit select line (`sel[1:0]`). This project implements a 1:4 DEMUX utilizing behavioral Verilog modeling with a 4-bit output vector.
+## Overview
+This project implements a **4-to-2 Priority Encoder** in Verilog HDL. An encoder compresses $2^n$ input lines into an $n$-bit binary code. A priority encoder resolves conflicting input signals by assigning a priority level to each input (with higher-order bits taking precedence), ensuring correct behavior when multiple input lines are asserted simultaneously.
 
-## 📊 Truth Table
+## Features
+* **Priority Resolution:** Automatically encodes the highest-order active input when multiple input lines are active.
+* **Valid Indicator (`valid`):** Includes a status flag to distinguish between an encoded zero input and an unasserted state.
+* **Simulation Ready:** Fully verified with a comprehensive testbench covering single-bit assertions and overlapping priority cases.
 
-| Data Input (`in`) | Select `sel[1]` | Select `sel[0]` | Output Vector (`out[3:0]`) |
-| :---: | :---: | :---: | :---: |
-| D | 0 | 0 | 000D |
-| D | 0 | 1 | 00D0 |
-| D | 1 | 0 | 0D00 |
-| D | 1 | 1 | D000 |
+## Truth Table (Priority-Based)
+
+| $I_3$ | $I_2$ | $I_1$ | $I_0$ | $Y_1$ | $Y_0$ |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 0 | 0 | 0 | 1 | 0 | 0 |
+| 0 | 0 | 1 | 0 | 0 | 1 |
+| 0 | 1 | 0 | 0 | 1 | 0 |
+| 1 | 0 | 0 | 0 | 1 | 1 |
 
 *(Note: Unselected bits within the output vector default to `0` to prevent latches.)*
 
 ## 🛠️ Tools Used
 * **Language:** Verilog HDL
-* **Simulation Platform:** [EDA Playground](https://edaplayground.com/)
+* **Simulation Platform:** [EDA Playground](https://edaplayground.com/x/G6Bq)
 * **Simulator:** Cadence Xcelium / Icarus Verilog
 * **Waveform Viewer:** EPWave
 
