@@ -35,6 +35,7 @@ Building, simulating, and verifying digital logic circuit blocks in Verilog HDL 
 - [x] **Day 26** [Decoder 3-to-8](./02_Combinational_Circuits/18_Decoder_3_to_8)
 - [x] **Day 27** [Encoder 4-to-2](./02_Combinational_Circuits/19_Encoder_4_to_2)
 - [x] **Day 28** [Encoder 8-to-3](./02_Combinational_Circuits/20_Encoder_8_to_3)
+- [x] **Day 29** [Priority Encoder 4-to-2](./02_Combinational_Circuits/21_Priority_Encoder_4_to_2)
 
 ## Tools Used
 - **Language:** Verilog HDL
